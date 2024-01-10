@@ -1,3 +1,5 @@
+Redux toolkit might be an overkill for a simple todo application in the real world, but it reaaly gives an essence of the possibilities of state management in our applications
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
